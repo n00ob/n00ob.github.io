@@ -18,6 +18,4 @@ I'm a developer focused on building custom tools, browser extensions, game cheat
 ---
 
 ### 📊 Activity & Achievements
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=n00ob&show_icons=true&theme=radial)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=n00ob&layout=compact&theme=radial)
